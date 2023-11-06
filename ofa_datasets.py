@@ -3026,10 +3026,10 @@ class MultiDataset(DatasetWithCollate):
                 self.inpatience[i] = 0
             else:
                 self.inpatience[i] += 1
-            if self.inpatience[i] > self.patience[i]:
-                self.dataset_multiple[i] = max(
-                    self.min_ratio[i], self.dataset_multiple[i] / 2
-                )
+            # if self.inpatience[i] > self.patience[i]:
+            #     self.dataset_multiple[i] = max(
+            #         self.min_ratio[i], self.dataset_multiple[i] / 2
+            #     )
                 # self.inpatience[i] = 0
         self.compute_sizes()
         self.performance_record.append(metric)

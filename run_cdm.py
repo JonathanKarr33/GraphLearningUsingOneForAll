@@ -4,6 +4,8 @@ import torch
 import torch_geometric as pyg
 from pytorch_lightning.loggers import WandbLogger
 
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "caching_allocator"
+
 from gp.utils.utils import (
     load_yaml,
     combine_dict,

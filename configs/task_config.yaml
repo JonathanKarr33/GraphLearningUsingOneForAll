@@ -36,6 +36,7 @@ pubmed_node: &pubmed_node
   dataset_splitter: CiteSplitter
   process_label_func: process_int_label
   num_classes: 3
+  eval_only: True
 
 wikics: &wikics
   <<: *E2E-node
