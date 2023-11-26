@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Gregory D. Abowd">
+      <data key="affiliation">Intel Research Seattle,Intel Research Cambridge, University of California, San Diego, College of Computing &amp; GVU Center, Georgia Institute of Technology, Atlanta, GA</data>
+      <data key="research">ubiquitous computing, design method, automated capture</data>
+    </node>
+    <node id="Jeremy Johnson">
+      <data key="affiliation">Interactive Media Technology Center, Georgia Institute of Technology, Atlanta, USA 30332</data>
+      <data key="research">smart toy, Recognition ApplicationsWireless sensor data, annotated play data</data>
+    </node>
+    <node id="Scott Gilliland">
+      <data key="affiliation">Georgia Tech, Atlanta, GA, USA</data>
+      <data key="research">interactive installation, button interface, interactive environment</data>
+    </node>
+    <node id="Pei Yin">
+      <data key="affiliation">Microsoft Corp, Redmond</data>
+      <data key="research">ASL recognition, ASL verification, ASL fenemes</data>
+    </node>
+    <node id="Stephen Sinclair">
+      <data key="affiliation">McGill University  Montreal, QC, Canada</data>
+      <data key="research">virtual stage, data representation, specific scene</data>
+    </node>
+    <node id="Scott Robertson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Open Government, Transformational Government, Citizen Engagement MinitrackIntroduction</data>
+    </node>
+    <node id="Jeffrey S. Pierce">
+      <data key="affiliation">IBM Research, USA</data>
+      <data key="research">user experience, interaction surface, information appliance</data>
+    </node>
+    <node id="Shumin Zhai">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Amy Bruckman">
+      <data key="affiliation">Gerogia Institute of Technology</data>
+      <data key="research">online community, online creative collaboration, online blogging environment</data>
+    </node>
+    <node id="Thad Starner">
+      <data key="affiliation">Contextual Computing Group, GVU Center, Georgia Insititute of Technology, Atlanta, GA 303320356, USA/ email: {thad,dminn,turtle,sloopy,joostan}@cc.gatech.edu , US</data>
+      <data key="research">Wearable Computer, mobile phone, mobile device</data>
+    </node>
+    <node id="Hendrik Iben">
+      <data key="affiliation">Unversity of Bremen, Bremen, Germany</data>
+      <data key="research">audio interface, HMD system, task guidance system</data>
+    </node>
+    <node id="Derrick Parkhurst">
+      <data key="affiliation">Iowa State University</data>
+      <data key="research">eye movement, reaction time, visual sensitivity</data>
+    </node>
+    <node id="Jeff Wilson">
+      <data key="affiliation">Baylor University, Waco, TX</data>
+      <data key="research">wireless network, wireless networkDriven, security method</data>
+    </node>
+    <node id="Michael Lawo">
+      <data key="affiliation">Universiaet Bremen, Germany</data>
+      <data key="research">inclusive design, user interface, virtual user model</data>
+    </node>
+    <node id="Maribeth Gandy">
+      <data key="affiliation">Georgia Tech, Atlanta, GA</data>
+      <data key="research">Augmented Reality, older adult, early design activity</data>
+    </node>
+    <node id="Kimberly Weaver">
+      <data key="affiliation">Georgia Institute of Technology, Atlanta, GA, USA</data>
+      <data key="research">sign language, hearing parent, deaf child</data>
+    </node>
+    <node id="Peter Presti">
+      <data key="affiliation">Georgia Institute of Technology, Altanta</data>
+      <data key="research">deaf child, Educational Game, children interact</data>
+    </node>
+    <node id="Huahai Yang">
+      <data key="affiliation">University at Albany, SUNY, Albany, NY</data>
+      <data key="research">generic natural language interface, generic system, domain knowledge</data>
+    </node>
+    <node id="Steven Dow">
+      <data key="affiliation">Carnegie Mellon University</data>
+      <data key="research">Elisa Giaccardi, family health heritage, generationsOn Heritage</data>
+    </node>
+    <node id="Brian Jones">
+      <data key="affiliation">Georgia Institute of Technology, Atlanta, GA, USA</data>
+      <data key="research">healthy aging, older adult, action research study</data>
+    </node>
+    <edge source="Gregory D. Abowd" target="Thad Starner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory D. Abowd" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory D. Abowd" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory D. Abowd" target="Brian Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory D. Abowd" target="Jeremy Johnson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory D. Abowd" target="Jeffrey S. Pierce">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeremy Johnson" target="Thad Starner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeremy Johnson" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeremy Johnson" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Gilliland" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Gilliland" target="Thad Starner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pei Yin" target="Thad Starner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pei Yin" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen Sinclair" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Robertson" target="Brian Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Robertson" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Robertson" target="Maribeth Gandy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Robertson" target="Jeff Wilson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey S. Pierce" target="Huahai Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey S. Pierce" target="Shumin Zhai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey S. Pierce" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shumin Zhai" target="Huahai Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shumin Zhai" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amy Bruckman" target="Thad Starner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amy Bruckman" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amy Bruckman" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thad Starner" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thad Starner" target="Maribeth Gandy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thad Starner" target="Michael Lawo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thad Starner" target="Hendrik Iben">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thad Starner" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hendrik Iben" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hendrik Iben" target="Michael Lawo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derrick Parkhurst" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Wilson" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Wilson" target="Maribeth Gandy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Wilson" target="Brian Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Lawo" target="Kimberly Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maribeth Gandy" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maribeth Gandy" target="Brian Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maribeth Gandy" target="Steven Dow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimberly Weaver" target="Peter Presti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimberly Weaver" target="Huahai Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Presti" target="Steven Dow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Presti" target="Brian Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

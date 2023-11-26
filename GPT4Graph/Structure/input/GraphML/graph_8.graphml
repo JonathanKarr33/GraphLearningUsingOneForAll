@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Joe Kraynak">
+      <data key="affiliation">Howard W. Sams &amp; Company, Carmel, IN</data>
+      <data key="research">Complete Idiot, Minute Guide, Easy Internet</data>
+    </node>
+    <node id="George R. Beinhorn">
+      <data key="affiliation">Que Corp., Carmel, IN</data>
+      <data key="research">step approach, QuickStartUsing Professional Write PlusWordPerfect, Troubleshooting section</data>
+    </node>
+    <node id="Carolyn B. Mitchell">
+      <data key="affiliation">Nan</data>
+      <data key="research">Automatic Speech Recognition, CR-ROM technology, Triple Play Plus</data>
+    </node>
+    <node id="Que Corporation">
+      <data key="affiliation">Nan</data>
+      <data key="research">quick reference</data>
+    </node>
+    <node id="Marilyn G. Kyd">
+      <data key="affiliation">Nan</data>
+      <data key="research">Microsoft PowerPoint, Microsoft Office, Learn PowerPoint</data>
+    </node>
+    <node id="Mark Schulman">
+      <data key="affiliation">Cincinnati Bell Information Systems (CBIS)</data>
+      <data key="research">Lotus Notes, Lotus NotesFrom, UNIXUsing UNIXUsing Lotus NotesQue</data>
+    </node>
+    <node id="David G. Durand">
+      <data key="affiliation">LTI, Amiens, France</data>
+      <data key="research">Smart Home, Version Control, workshop participant</data>
+    </node>
+    <node id="Julia A. Cardis">
+      <data key="affiliation">Nan</data>
+      <data key="research">Complete Idiot, domestic travel concern, general travel advice</data>
+    </node>
+    <node id="Bob Mullen">
+      <data key="affiliation">Nan</data>
+      <data key="research">current release, different part, different performance characteristic</data>
+    </node>
+    <node id="Suzanne Weixel">
+      <data key="affiliation">Nan</data>
+      <data key="research">Microsoft Office, Learning Microsoft Office, Learning Microsoft Word</data>
+    </node>
+    <node id="Jerry Honeycutt">
+      <data key="affiliation">Nan</data>
+      <data key="research">Windows NT, Windows Desktop Deployment Resource, Windows Registry</data>
+    </node>
+    <node id="Elli Mylonas">
+      <data key="affiliation">Scholarly Technology Group, Brown University, Providence, RI</data>
+      <data key="research">Frank Halasz, Perseus project, information structure</data>
+    </node>
+    <node id="Tim Evans">
+      <data key="affiliation">Nan</data>
+      <data key="research">Intranet application, Intranet development, complete Windows NT Intranet</data>
+    </node>
+    <node id="Geoffrey W. McKim">
+      <data key="affiliation">Indiana Univ., Bloomington</data>
+      <data key="research">Internet Research Companion, scholarly communication forum, STIN model</data>
+    </node>
+    <node id="Gordon McComb">
+      <data key="affiliation">Nan</data>
+      <data key="research">robot builder, robotic arm, Gordon McComb</data>
+    </node>
+    <node id="Eric P. Bloom">
+      <data key="affiliation">Nan</data>
+      <data key="research">C Trilogy</data>
+    </node>
+    <node id="Dan Post">
+      <data key="affiliation">Nan</data>
+      <data key="research">Microsoft Excel, Complete Idiot, lower commission</data>
+    </node>
+    <node id="Steven B. Combs">
+      <data key="affiliation">Nan</data>
+      <data key="research">AutoCAD release, non-discipline approach, advanced drawing area</data>
+    </node>
+    <node id="Samantha Penrod">
+      <data key="affiliation">Nan</data>
+      <data key="research">Windows SmartStart, WordPerfect Version, WordPerfect Windows Easy</data>
+    </node>
+    <node id="Laura Acklen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Corel WordPerfect, Absolute Beginner, Special Edition</data>
+    </node>
+    <edge source="Joe Kraynak" target="Gordon McComb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joe Kraynak" target="Que Corporation">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George R. Beinhorn" target="Que Corporation">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carolyn B. Mitchell" target="Que Corporation">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Bob Mullen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Tim Evans">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Marilyn G. Kyd">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Mark Schulman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Julia A. Cardis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Gordon McComb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Jerry Honeycutt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="David G. Durand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Dan Post">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Elli Mylonas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Laura Acklen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Samantha Penrod">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Steven B. Combs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Geoffrey W. McKim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Suzanne Weixel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Que Corporation" target="Eric P. Bloom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David G. Durand" target="Elli Mylonas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bob Mullen" target="Laura Acklen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gordon McComb" target="Laura Acklen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

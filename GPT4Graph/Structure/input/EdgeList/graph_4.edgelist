@@ -1,0 +1,41 @@
+Ann M. Hickey	Doug Dean	{'relation': 'collaborate'}
+Ann M. Hickey	Jay F Nunamaker	{'relation': 'collaborate'}
+Michael McQuaid	Mariëlle den Hengst	{'relation': 'collaborate'}
+Michael McQuaid	Jiang Zhu	{'relation': 'collaborate'}
+Michael McQuaid	Jay F Nunamaker	{'relation': 'collaborate'}
+Martijn Warnier	Mariëlle den Hengst	{'relation': 'collaborate'}
+Alan Serrano	Alan Serrano	{'relation': 'collaborate'}
+Alan Serrano	Mariëlle den Hengst	{'relation': 'collaborate'}
+Alan Serrano	Vlatka Hlupic	{'relation': 'collaborate'}
+Alan Serrano	J. Appelman	{'relation': 'collaborate'}
+Vlatka Hlupic	J. Appelman	{'relation': 'collaborate'}
+Vlatka Hlupic	Mariëlle den Hengst	{'relation': 'collaborate'}
+Vlatka Hlupic	Wendy Currie	{'relation': 'collaborate'}
+J V Hansen	P. Lowry	{'relation': 'collaborate'}
+J V Hansen	Conan C. Albrecht	{'relation': 'collaborate'}
+J V Hansen	Doug Dean	{'relation': 'collaborate'}
+Mariëlle den Hengst	Doug Dean	{'relation': 'collaborate'}
+Mariëlle den Hengst	J. Appelman	{'relation': 'collaborate'}
+Mariëlle den Hengst	Gwendolyn Kolfschoten	{'relation': 'collaborate'}
+Mariëlle den Hengst	Mark Adkins	{'relation': 'collaborate'}
+Mariëlle den Hengst	Jiang Zhu	{'relation': 'collaborate'}
+Mariëlle den Hengst	Wendy Currie	{'relation': 'collaborate'}
+Mariëlle den Hengst	H. Sol	{'relation': 'collaborate'}
+Mariëlle den Hengst	Gert-Jan de Vreede	{'relation': 'collaborate'}
+Mariëlle den Hengst	Lis Weimar	{'relation': 'collaborate'}
+Gwendolyn Kolfschoten	Doug Dean	{'relation': 'collaborate'}
+Gwendolyn Kolfschoten	Gert-Jan de Vreede	{'relation': 'collaborate'}
+Gwendolyn Kolfschoten	Conan C. Albrecht	{'relation': 'collaborate'}
+Gwendolyn Kolfschoten	J. Appelman	{'relation': 'collaborate'}
+Tom Rodgers	Doug Dean	{'relation': 'collaborate'}
+Tom Rodgers	Jay F Nunamaker	{'relation': 'collaborate'}
+H. Sol	Gert-Jan de Vreede	{'relation': 'collaborate'}
+Doug Dean	Conan C. Albrecht	{'relation': 'collaborate'}
+Doug Dean	Jay F Nunamaker	{'relation': 'collaborate'}
+Doug Dean	P. Lowry	{'relation': 'collaborate'}
+Doug Dean	Gert-Jan de Vreede	{'relation': 'collaborate'}
+Conan C. Albrecht	Gert-Jan de Vreede	{'relation': 'collaborate'}
+P. Lowry	Jay F Nunamaker	{'relation': 'collaborate'}
+Jay F Nunamaker	Gert-Jan de Vreede	{'relation': 'collaborate'}
+Jay F Nunamaker	Mark Adkins	{'relation': 'collaborate'}
+J. Appelman	Gert-Jan de Vreede	{'relation': 'collaborate'}

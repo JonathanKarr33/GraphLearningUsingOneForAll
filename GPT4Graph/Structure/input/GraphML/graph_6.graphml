@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="I-Chyn Wey">
+      <data key="affiliation">Department of Electrical Engineering, Graduate Institute of Electronics Engineering, National Taiwan University, Taipei, Taiwan</data>
+      <data key="research">DICE design, FERST design, multiplier input bits increase</data>
+    </node>
+    <node id="Chung-Ju Wu">
+      <data key="affiliation">National TsingHua University, Taiwan</data>
+      <data key="research">register file, embedded VLIW DSP processor, PAC DSP</data>
+    </node>
+    <node id="Jen-Kuei Yang">
+      <data key="affiliation">ICL, Industrial Technology Research Institute, Hsinchu, Taiwan</data>
+      <data key="research">virtual platform, PAC SoC, multimedia application</data>
+    </node>
+    <node id="Hui-Shun Hung">
+      <data key="affiliation">National Taiwan University, Taipei</data>
+      <data key="research">traffic load, Traffic-Balanced Topology-Aware Multiple Routing, Nonstationary Irregular Mesh</data>
+    </node>
+    <node id="Yu-Hao Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">better HRI, inhomogeneous motion environment, better image quality</data>
+    </node>
+    <node id="Chun-Hsiang Huang">
+      <data key="affiliation">National Taiwan University</data>
+      <data key="research">proposed scheme, watermarking scheme, digital invisible ink</data>
+    </node>
+    <node id="Yuan-Hua Chu">
+      <data key="affiliation">Nan</data>
+      <data key="research">asynchronous SRAM, DMST technique, timing skew</data>
+    </node>
+    <node id="Chun-Yu Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">home rehabilitation, rehabilitation program, traditional rehabilitation</data>
+    </node>
+    <node id="Shu-Yen Lin">
+      <data key="affiliation">National Central University</data>
+      <data key="research">semantic orientation, Chinese sentiment dictionary, Chinese term</data>
+    </node>
+    <node id="You-Gang Chen">
+      <data key="affiliation">Graduate Institute of Electronics Engineering, National Taiwan University, Taipei, Taiwan</data>
+      <data key="research">noise interference, reliable CMOS, VLSI circuit</data>
+    </node>
+    <node id="Yen-Liang Chen">
+      <data key="affiliation">National Central University, Taiwan, Republic of China</data>
+      <data key="research">Chinese patent, English patent, patent document</data>
+    </node>
+    <node id="Wei Wang">
+      <data key="affiliation">Centre for Quantum Computation &amp; Intelligent Systems, University of Technology, Sydney, Australia</data>
+      <data key="research">robots task-independent, human social network, robot social network</data>
+    </node>
+    <node id="K. J. R. Liu">
+      <data key="affiliation">Dept. of Commun. Eng., Nat. Chiao Tung Univ., Hsinchu, Taiwan</data>
+      <data key="research">associated area, basic criterion, basic understanding</data>
+    </node>
+    <node id="Tsung-Han Tsai">
+      <data key="affiliation">Dept. of Electr. Eng., Nat. Taiwan Univ., Taipei</data>
+      <data key="research">computational complexity, audio decoder, novel MPEG-2</data>
+    </node>
+    <node id="K. J. Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Complete Compressed Domain Approach, Digital Video Coding Systems</data>
+    </node>
+    <node id="A. Raghupathy">
+      <data key="affiliation">Dept. of Electr., Univ. of Maryland, College Park, MD, USA</data>
+      <data key="research">system architecture, video application, vlsi architecture</data>
+    </node>
+    <node id="W. Shih">
+      <data key="affiliation">National Tsing Hua Univ., HsinChu, Taiwan</data>
+      <data key="research">remote user authentication scheme, authentication scheme, proposed scheme</data>
+    </node>
+    <node id="Cheng-Zhou Zhan">
+      <data key="affiliation">Nan</data>
+      <data key="research">better HRI, inhomogeneous motion environment, better image quality</data>
+    </node>
+    <node id="An-Yeu Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">conventional DFE, Ideal DFE, cost-effective DFE implementation</data>
+    </node>
+    <node id="Cheng-Hung Lin">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan Ocean University and Department of Electronic Engineering, National Taipei University of Technology, EMC and Antenna Laboratory, High Tech Com ...</data>
+      <data key="research">proposed antenna, antenna design, antenna gain</data>
+    </node>
+    <edge source="I-Chyn Wey" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I-Chyn Wey" target="You-Gang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chung-Ju Wu" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chung-Ju Wu" target="Yuan-Hua Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jen-Kuei Yang" target="W. Shih">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jen-Kuei Yang" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui-Shun Hung" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui-Shun Hung" target="Shu-Yen Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu-Hao Chen" target="Cheng-Zhou Zhan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu-Hao Chen" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Hsiang Huang" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Hsiang Huang" target="Shu-Yen Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuan-Hua Chu" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yu Chen" target="Tsung-Han Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yu Chen" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yu Chen" target="Cheng-Hung Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu-Yen Lin" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="You-Gang Chen" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yen-Liang Chen" target="Cheng-Zhou Zhan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yen-Liang Chen" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Wang" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. J. R. Liu" target="A. Raghupathy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. J. R. Liu" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tsung-Han Tsai" target="Cheng-Hung Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tsung-Han Tsai" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. J. Liu" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Raghupathy" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Shih" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheng-Zhou Zhan" target="Cheng-Hung Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheng-Zhou Zhan" target="An-Yeu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="An-Yeu Wu" target="Cheng-Hung Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

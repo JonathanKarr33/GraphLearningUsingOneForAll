@@ -1,0 +1,29 @@
+Li-Wen Chen	Lung-Ming Fu	{'relation': 'collaborate'}
+Li-Wen Chen	Chia-Yen Lee	{'relation': 'collaborate'}
+Chia-Yen Lee	Shih-Chuan Chen	{'relation': 'collaborate'}
+Chia-Yen Lee	Yu-Hsiang Wang	{'relation': 'collaborate'}
+Chia-Yen Lee	Lung-Ming Fu	{'relation': 'collaborate'}
+Chia-Yen Lee	Yi-Chao Huang	{'relation': 'collaborate'}
+Chia-Yen Lee	Chih-Yung Wen	{'relation': 'collaborate'}
+Chia-Yen Lee	C.-F. Chien	{'relation': 'collaborate'}
+Chia-Yen Lee	C. H. Cheng	{'relation': 'collaborate'}
+Chia-Yen Lee	Wen-Cheng Kuo	{'relation': 'collaborate'}
+Chia-Yen Lee	Hsien-Tsung Chang	{'relation': 'collaborate'}
+Yi-Chao Huang	C.-F. Chien	{'relation': 'collaborate'}
+C. H. Cheng	S. C. Chen	{'relation': 'collaborate'}
+C. H. Cheng	Y. C. Lin	{'relation': 'collaborate'}
+C. H. Cheng	J. C. Wu	{'relation': 'collaborate'}
+C. H. Cheng	Chih-Yung Wen	{'relation': 'collaborate'}
+C. H. Cheng	Ada Fu	{'relation': 'collaborate'}
+Hsien-Tsung Chang	Yi-Lun Ho	{'relation': 'collaborate'}
+Hsien-Tsung Chang	Yi-Ming Chang	{'relation': 'collaborate'}
+Hsien-Tsung Chang	Yi-Ting Wang	{'relation': 'collaborate'}
+Hsien-Tsung Chang	Shih-Ting Huang	{'relation': 'collaborate'}
+Hsien-Tsung Chang	Yu-Wen Li	{'relation': 'collaborate'}
+Hsien-Tsung Chang	Chih-Yung Wen	{'relation': 'collaborate'}
+S. C. Chen	Y. C. Lin	{'relation': 'collaborate'}
+S. C. Chen	J. C. Wu	{'relation': 'collaborate'}
+Yi-Lun Ho	Yu-Wen Li	{'relation': 'collaborate'}
+Lung-Ming Fu	Yu-Hsiang Wang	{'relation': 'collaborate'}
+Y. C. Lin	J. C. Wu	{'relation': 'collaborate'}
+Shih-Chuan Chen	Wen-Cheng Kuo	{'relation': 'collaborate'}

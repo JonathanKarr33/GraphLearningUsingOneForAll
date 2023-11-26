@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="J. R. Zeidler">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of California, San Diego, La Jolla, CA and Space and Naval Warfare Center, San Diego, CA</data>
+      <data key="research">adaptive lattice filter, adaptive filter, corresponding Wiener filter</data>
+    </node>
+    <node id="Chandra R. Murthy">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., California Univ., San Diego, La Jolla, CA</data>
+      <data key="research">Rayleigh flat-fading channel, channel error, channel feedback requirement</data>
+    </node>
+    <node id="Srikanth V. Krishnamurthy">
+      <data key="affiliation">Nan</data>
+      <data key="research">Multimedia Networks, Special Section</data>
+    </node>
+    <node id="Umit Yapanel">
+      <data key="affiliation">LENA Foundation, Boulder, CO</data>
+      <data key="research">neutral detection, automatic speech recognition, speech recognition</data>
+    </node>
+    <node id="Ramesh Annavajjala">
+      <data key="affiliation">ArrayComm LLC, San Jose, CA</data>
+      <data key="research">Rayleigh fading channel, channel code rate, perfect channel estimation</data>
+    </node>
+    <node id="Kjersti Engan">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Hogskolen i Stavanger, Stavanger, Norway</data>
+      <data key="research">signal expansion, dictionary vector, overcomplete dictionary</data>
+    </node>
+    <node id="M. Murthi">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Miami, McArthur Engineering Bldg. 406, 1251 Memorial Dr., Coral Gables, FL 33146, United States</data>
+      <data key="research">predictive coder, predictive coding, packet loss condition</data>
+    </node>
+    <node id="Elettra Venosa">
+      <data key="affiliation">San Diego State University, San Diego, USA</data>
+      <data key="research">converter channelizer, spectral fragment, pre-processing task</data>
+    </node>
+    <node id="Bhaskar D. Rao">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of California, La Jolla, CA, USA</data>
+      <data key="research">Support Recovery, expected distortion performance, channel-error induced distortion</data>
+    </node>
+    <node id="M. Wengler">
+      <data key="affiliation">Nan</data>
+      <data key="research">MRC receiver, OC receiver, performance analysis</data>
+    </node>
+    <node id="K. V. S. Hari">
+      <data key="affiliation">Dept. of ECE, Indian Inst. of Sci., Bangalore, India</data>
+      <data key="research">spatial smoothing, FIR system, IOFDM system</data>
+    </node>
+    <node id="Michele Zorzi">
+      <data key="affiliation">Consorzio Ferrara Ricerche (CFR), Ferrara, Italy</data>
+      <data key="research">underwater network, wireless sensor network, performance evaluation</data>
+    </node>
+    <node id="R. Hegde">
+      <data key="affiliation">Freescale Semiconductor, Technology Solutions Organization, Austin, TX</data>
+      <data key="research">Silicon gate, partial reduction, CVD poly-Si</data>
+    </node>
+    <node id="Jianxia Ning">
+      <data key="affiliation">University of California, Riverside, Riverside, CA, USA</data>
+      <data key="research">GHz band, neighbor discovery, analytical framework</data>
+    </node>
+    <node id="Tara Javidi">
+      <data key="affiliation">University of California, San Diego, USA</data>
+      <data key="research">throughput optimal, adaptive opportunistic routing scheme, routing policy</data>
+    </node>
+    <node id="J.C. Roh">
+      <data key="affiliation">Texas Instrum. Inc., Sunnyvale, CA</data>
+      <data key="research">beamforming matrix, MIMO channel, channel capacity</data>
+    </node>
+    <node id="Joseph F. Murray">
+      <data key="affiliation">Brain and Cognitive Sciences Department, Massachusetts Institute of Technology, Cambridge, USA 02139</data>
+      <data key="research">overcomplete dictionary, sparse representation, sparse coding</data>
+    </node>
+    <node id="Emanuele Coviello">
+      <data key="affiliation">University of California, San Diego, San Diego, USA</data>
+      <data key="research">BoS Tree, semantic abstraction, cross-modal document retrieval</data>
+    </node>
+    <node id="Mohan M. Trivedi">
+      <data key="affiliation">Nan</data>
+      <data key="research">feature set, small-sized feature set, spatio-temporal feature extraction</data>
+    </node>
+    <node id="Scott Makeig">
+      <data key="affiliation">Swartz Center for Computational Neuroscience, Institute for Neural Computation and Department of Neurosciences, School of Medicine, University of California San Diego, La Jolla, CA</data>
+      <data key="research">independent component analysis, EEG data, EEG signal</data>
+    </node>
+    <edge source="J. R. Zeidler" target="Tara Javidi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. R. Zeidler" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chandra R. Murthy" target="Ramesh Annavajjala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chandra R. Murthy" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Srikanth V. Krishnamurthy" target="Michele Zorzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Srikanth V. Krishnamurthy" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Srikanth V. Krishnamurthy" target="Jianxia Ning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Umit Yapanel" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramesh Annavajjala" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kjersti Engan" target="Joseph F. Murray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kjersti Engan" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Murthi" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Elettra Venosa" target="Bhaskar D. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Jianxia Ning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="R. Hegde">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Tara Javidi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Scott Makeig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Emanuele Coviello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="K. V. S. Hari">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Michele Zorzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Joseph F. Murray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="Mohan M. Trivedi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="J.C. Roh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhaskar D. Rao" target="M. Wengler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Zorzi" target="Emanuele Coviello">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Volker Hilt">
+      <data key="affiliation">Praktische Informatik IV, University of Mannheim, L15, 16, 68131 Mannheim</data>
+      <data key="research">interactive media, interactive media stream, interactive media application</data>
+    </node>
+    <node id="Thomas Lang">
+      <data key="affiliation">Nan</data>
+      <data key="research">node size, Large Node B-TreesThe performance, better performance</data>
+    </node>
+    <node id="Holger Füβler">
+      <data key="affiliation">University of Mannheim, Mannheim, Germany</data>
+      <data key="research">position-based routing, mobile ad-hoc network, ns-2 tracesDiscrete-event network simulation</data>
+    </node>
+    <node id="Dirk Farin">
+      <data key="affiliation">Signal Processing Systems, LG 0.10, University Eindhoven, Eindhoven, MB, Netherlands</data>
+      <data key="research">proposed algorithm, feature point, court-net sports video</data>
+    </node>
+    <node id="Stefan Fischer">
+      <data key="affiliation">Nan</data>
+      <data key="research">sensor node, cyber-physical system, Name-Centric Service Architecture</data>
+    </node>
+    <node id="Varsha Sadekar">
+      <data key="affiliation">General Motors</data>
+      <data key="research">VANET application, VANET scope, market penetration rate</data>
+    </node>
+    <node id="Erzen Hyko">
+      <data key="affiliation">Department of Computer Science, University of Düsseldorf, Düsseldorf, Germany 40225</data>
+      <data key="research">information content, Spatio-Temporal Information Content, trajectory information</data>
+    </node>
+    <node id="Bernd Lamparter">
+      <data key="affiliation">NEC Europe Ltd., Heidelberg, Germany</data>
+      <data key="research">color lookup table, generic IP paging architecture, digital movie</data>
+    </node>
+    <node id="Martin Mauve">
+      <data key="affiliation">Mannheim Univ.</data>
+      <data key="research">interactive media, Position-based routing, networked computer game</data>
+    </node>
+    <node id="Björn Scheuermann">
+      <data key="affiliation">Institut für Informationsverarbeitung, Leibnitz Universität Hannover,</data>
+      <data key="research">image segmentation, interactive image segmentation, video segmentation</data>
+    </node>
+    <node id="Holger Füßler">
+      <data key="affiliation">University of Mannheim</data>
+      <data key="research">Position-based routing, location service, city scenariosPosition-based routing</data>
+    </node>
+    <node id="J. Widmer">
+      <data key="affiliation">Bell Labs, Instituto IMDEA Networks, Avenida del Mar Mediterraneo 22, Leganes (Madrid), NJ, Spain</data>
+      <data key="research">selfish station, next generation, selfish user</data>
+    </node>
+    <node id="Marcel Busse">
+      <data key="affiliation">University of Mannheim, Mannheim, Germany</data>
+      <data key="research">energy efficiency, forwarding path, mobile network</data>
+    </node>
+    <node id="Rajeev Shorey">
+      <data key="affiliation">NIIT University, Delhi, India</data>
+      <data key="research">TPC member, buffer size, bottleneck router</data>
+    </node>
+    <node id="Daniel Jiang">
+      <data key="affiliation">Nan</data>
+      <data key="research">service architecture, Internet-Enabled CarsThe service, Internet-based service</data>
+    </node>
+    <node id="Andreas Barthels">
+      <data key="affiliation">Technische Universität München, Germany, email: jain@cs.tum.edu</data>
+      <data key="research">power management, power management plan, relational domain</data>
+    </node>
+    <node id="Jürgen Vogel">
+      <data key="affiliation">SAP Research Center St. Gallen, Switzerland</data>
+      <data key="research">price model, cloud service, service offering</data>
+    </node>
+    <node id="Frank Fitzek">
+      <data key="affiliation">NTT Network Innovation Laboratories, CTIF Aalborg University, Aalborg</data>
+      <data key="research">wireless network, mobile device, wireless link</data>
+    </node>
+    <node id="Magnus Roos">
+      <data key="affiliation">Department of Computer Science, Heinrich Heine University, Düsseldorf, Germany</data>
+      <data key="research">social welfare optimization, Nash product, social welfare</data>
+    </node>
+    <node id="Dieter Vollmer">
+      <data key="affiliation">DaimlerChrysler</data>
+      <data key="research">inter-vehicle communication, Fleetnet platform, Fleetnet projectMobiCom poster</data>
+    </node>
+    <edge source="Volker Hilt" target="Jürgen Vogel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Volker Hilt" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Lang" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Lang" target="Holger Füßler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Füβler" target="Björn Scheuermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Füβler" target="Marcel Busse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Füβler" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dirk Farin" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dirk Farin" target="Jürgen Vogel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Fischer" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Varsha Sadekar" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erzen Hyko" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernd Lamparter" target="Martin Mauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernd Lamparter" target="Marcel Busse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Andreas Barthels">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Frank Fitzek">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="J. Widmer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Dieter Vollmer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Magnus Roos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Holger Füßler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Björn Scheuermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Marcel Busse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Rajeev Shorey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Daniel Jiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Mauve" target="Jürgen Vogel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Björn Scheuermann" target="Magnus Roos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Björn Scheuermann" target="Marcel Busse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Füßler" target="Dieter Vollmer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rajeev Shorey" target="Daniel Jiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jürgen Vogel" target="Jürgen Vogel">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

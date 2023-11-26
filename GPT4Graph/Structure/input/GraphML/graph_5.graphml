@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Li-Wen Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Full Chain Project Investment, Construction ProjectsIn construction project, construction project</data>
+    </node>
+    <node id="Chia-Yen Lee">
+      <data key="affiliation">Department of Industrial Engineering &amp; Engineering Management, National Tsing Hua University, 101 Sec. 2 Kuang Fu Road, Hsinchu 30013, Taiwan</data>
+      <data key="research">efficient computational procedure, global logistics, complex procedure</data>
+    </node>
+    <node id="Yi-Chao Huang">
+      <data key="affiliation">Dept. of Industrial Management, Pingtung University of Science and Technology, Taiwan</data>
+      <data key="research">CSO algorithm, economic dispatch decision, optimal economic dispatch</data>
+    </node>
+    <node id="C. H. Cheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">Mining Association Rules, Weighted Items</data>
+    </node>
+    <node id="Hsien-Tsung Chang">
+      <data key="affiliation">Computer Science and Information Engineering, Chang Gung University, Guishan Shiang, Taoyuan County, Taiwan, R.O.C.</data>
+      <data key="research">scalable network file system, large web service, web image retrieval system</data>
+    </node>
+    <node id="S. C. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">m ohmic contact, total process</data>
+    </node>
+    <node id="Chih-Yung Wen">
+      <data key="affiliation">National ChengKung University, Department of Aeronautics and Astronautics, 701, Tainan, Taiwan</data>
+      <data key="research">diaphragm deflection, magnetic force, flexible PDMS diaphragm</data>
+    </node>
+    <node id="Yi-Lun Ho">
+      <data key="affiliation">Department of Industrial Design, Chang Gung University, Taoyuan, Taiwan</data>
+      <data key="research">family member, family communicationThis study, family interaction</data>
+    </node>
+    <node id="Shih-Ting Huang">
+      <data key="affiliation">Department of Computer Science and Information Engineering, National Taiwan University of Science and Technology, No. 43, Section 4, Keelung Road, Taipei 10672, Taiwan, ROC</data>
+      <data key="research">computation time, effective strategy, orientation-based strategy</data>
+    </node>
+    <node id="Yu-Wen Li">
+      <data key="affiliation">National Sun YatSen University in Taiwan</data>
+      <data key="research">Social Commerce, social networking Web site, social networking site</data>
+    </node>
+    <node id="Lung-Ming Fu">
+      <data key="affiliation">Graduate Institute of Materials Engineering, National Pingtung University of Science and Technology, Taiwan</data>
+      <data key="research">residual stress distribution, gas sensor, surrounding gas</data>
+    </node>
+    <node id="Yi-Ting Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">prominent feature, physical interactivity, online consumer</data>
+    </node>
+    <node id="Ada Fu">
+      <data key="affiliation">Chineese Univ. of Hong Kong, Hong Kong</data>
+      <data key="research">anonymized data, xml data, data set</data>
+    </node>
+    <node id="Yu-Hsiang Wang">
+      <data key="affiliation">DaYeh University, Department of Mechanical and Automation Engineering, 515, Changhua, Taiwan</data>
+      <data key="research">air flow, flow rate, surrounding gas</data>
+    </node>
+    <node id="C.-F. Chien">
+      <data key="affiliation">Department of Industrial Engineering and Engineering Management, National Tsing Hua University, 101 Section 2 Kuang Fu Road, Hsinchu 30043, Taiwan, ROC</data>
+      <data key="research">empirical study, semiconductor product, semiconductor manufacturing</data>
+    </node>
+    <node id="Y. C. Lin">
+      <data key="affiliation">National Cheng Kung University, Department of Mechanical Engineering, Center for Micro/Nano Science and Technology, 701, Tainan, Taiwan, ROC</data>
+      <data key="research">pin-to-plate microjoining, metallurgical analysis, fabrication process</data>
+    </node>
+    <node id="Shih-Chuan Chen">
+      <data key="affiliation">DaYeh University, Department of Mechanical and Automation Engineering, 515, Changhua, Taiwan</data>
+      <data key="research">High-performance MEMS-based gas chromatography, Pt micro heater, conventional capillary-based GC system</data>
+    </node>
+    <node id="J. C. Wu">
+      <data key="affiliation">National Changhua University of Education, Department of Physics, 50057, Changhua, Taiwan</data>
+      <data key="research">SF6 gas pressure, process window, source power</data>
+    </node>
+    <node id="Yi-Ming Chang">
+      <data key="affiliation">Healthy Aging Research Center, Department of Computer Science and Information Engineering, Chang Gung University, TaoYuan, Taiwan</data>
+      <data key="research">community pond, real object, social network experience</data>
+    </node>
+    <node id="Wen-Cheng Kuo">
+      <data key="affiliation">China University of Technology</data>
+      <data key="research">battery capacity, battery capacity restriction, energy-constrained sensor network</data>
+    </node>
+    <edge source="Li-Wen Chen" target="Lung-Ming Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li-Wen Chen" target="Chia-Yen Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Shih-Chuan Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Yu-Hsiang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Lung-Ming Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Yi-Chao Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Chih-Yung Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="C.-F. Chien">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="C. H. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Wen-Cheng Kuo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Yen Lee" target="Hsien-Tsung Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi-Chao Huang" target="C.-F. Chien">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Cheng" target="S. C. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Cheng" target="Y. C. Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Cheng" target="J. C. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Cheng" target="Chih-Yung Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Cheng" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsien-Tsung Chang" target="Yi-Lun Ho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsien-Tsung Chang" target="Yi-Ming Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsien-Tsung Chang" target="Yi-Ting Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsien-Tsung Chang" target="Shih-Ting Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsien-Tsung Chang" target="Yu-Wen Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsien-Tsung Chang" target="Chih-Yung Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. C. Chen" target="Y. C. Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. C. Chen" target="J. C. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi-Lun Ho" target="Yu-Wen Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lung-Ming Fu" target="Yu-Hsiang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. C. Lin" target="J. C. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shih-Chuan Chen" target="Wen-Cheng Kuo">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

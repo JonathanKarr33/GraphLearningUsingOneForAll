@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ann M. Hickey">
+      <data key="affiliation">U. of Colorado at Colorado Springs, College of Business, Colorado Springs, CO</data>
+      <data key="research">elicitation technique, model elicitation, scenario definition</data>
+    </node>
+    <node id="Michael McQuaid">
+      <data key="affiliation">School of Information, University of Michigan, Ann Arbor, Michigan 48109</data>
+      <data key="research">community development effort, Community Development, tool development</data>
+    </node>
+    <node id="Martijn Warnier">
+      <data key="affiliation">Systems Engineering Section, Department of Multiactor Systems, Faculty of Technology, Policy and Management, Delft University of Technology, P.O. Box 5015, NL2600GA, Delft, The Netherlan ...</data>
+      <data key="research">agent platform, software agent, data breach</data>
+    </node>
+    <node id="Alan Serrano">
+      <data key="affiliation">Universidad Politécnica de Madrid</data>
+      <data key="research">business process, BP simulation model, process design approach</data>
+    </node>
+    <node id="Vlatka Hlupic">
+      <data key="affiliation">University of Westminster, Westminster Business School, 35 Marylebone Road, London NW1 5LS, United Kingdom</data>
+      <data key="research">simulation modeling, simulation software, business process simulation</data>
+    </node>
+    <node id="J V Hansen">
+      <data key="affiliation">Univ. of Michigan, Ann Arbor</data>
+      <data key="research">model checking, Semantic Web, financial fraud</data>
+    </node>
+    <node id="Mariëlle den Hengst">
+      <data key="affiliation">Delft University of Technology, The Netherlands</data>
+      <data key="research">facilitation function, data breach, interorganizational coordination</data>
+    </node>
+    <node id="Gwendolyn Kolfschoten">
+      <data key="affiliation">Delft University of Technology, The Netherlands</data>
+      <data key="research">collaboration process, design pattern, collaborative design</data>
+    </node>
+    <node id="Tom Rodgers">
+      <data key="affiliation">Institute for Healthcare Evaluation: TAMUS HS</data>
+      <data key="research">creative technique, interpersonal trust, Assumption Reversals</data>
+    </node>
+    <node id="Wendy Currie">
+      <data key="affiliation">University of Warwick, Coventy, UK</data>
+      <data key="research">ASP business model, Management Information Systems, Offshore IT Outsourcing</data>
+    </node>
+    <node id="H. Sol">
+      <data key="affiliation">Nan</data>
+      <data key="research">global financial transaction, global transaction, national market</data>
+    </node>
+    <node id="Doug Dean">
+      <data key="affiliation">Information Systems, Brigham Young University</data>
+      <data key="research">creative technique, scenario definition, collaboration process</data>
+    </node>
+    <node id="Conan C. Albrecht">
+      <data key="affiliation">Brigham Young University, Provo, UT</data>
+      <data key="research">financial fraud, Semantic Web, current system</data>
+    </node>
+    <node id="P. Lowry">
+      <data key="affiliation">Nan</data>
+      <data key="research">Mediate Heterogeneous Data Sources, XML Data Mediation, Proposed Comprehensive Architecture</data>
+    </node>
+    <node id="Jay F Nunamaker">
+      <data key="affiliation">Spears School of Business, Oklahoma State University, Stillwater, OK</data>
+      <data key="research">information technology, information system, group support system</data>
+    </node>
+    <node id="Mark Adkins">
+      <data key="affiliation">Spears School of Business, Oklahoma State University, Stillwater, OK</data>
+      <data key="research">Third Fleet, facilitation function, Technology Transition</data>
+    </node>
+    <node id="Jiang Zhu">
+      <data key="affiliation">Sch. fo Electr. Sci. &amp; Eng., Nat. Univ. of Defense Technol., Changsha</data>
+      <data key="research">access delay performance, service differentiation, Simulated performance result</data>
+    </node>
+    <node id="J. Appelman">
+      <data key="affiliation">Delft University of Technology, The Netherlands</data>
+      <data key="research">Collaboration Engineering, thinkLet concept, Group Support</data>
+    </node>
+    <node id="Lis Weimar">
+      <data key="affiliation">AmsterdamAmstelland Police Force</data>
+      <data key="research">GSS transition, actionable item, case study</data>
+    </node>
+    <node id="Gert-Jan de Vreede">
+      <data key="affiliation">University of Nebraska at Omaha &amp; Delft University of Technology</data>
+      <data key="research">Collaboration Engineering, collaboration technology, collaboration process</data>
+    </node>
+    <edge source="Ann M. Hickey" target="Doug Dean">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ann M. Hickey" target="Jay F Nunamaker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael McQuaid" target="Mariëlle den Hengst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael McQuaid" target="Jiang Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael McQuaid" target="Jay F Nunamaker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martijn Warnier" target="Mariëlle den Hengst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan Serrano" target="Alan Serrano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan Serrano" target="Mariëlle den Hengst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan Serrano" target="Vlatka Hlupic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan Serrano" target="J. Appelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vlatka Hlupic" target="J. Appelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vlatka Hlupic" target="Mariëlle den Hengst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vlatka Hlupic" target="Wendy Currie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J V Hansen" target="P. Lowry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J V Hansen" target="Conan C. Albrecht">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J V Hansen" target="Doug Dean">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Doug Dean">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="J. Appelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Gwendolyn Kolfschoten">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Mark Adkins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Jiang Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Wendy Currie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="H. Sol">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mariëlle den Hengst" target="Lis Weimar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gwendolyn Kolfschoten" target="Doug Dean">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gwendolyn Kolfschoten" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gwendolyn Kolfschoten" target="Conan C. Albrecht">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gwendolyn Kolfschoten" target="J. Appelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tom Rodgers" target="Doug Dean">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tom Rodgers" target="Jay F Nunamaker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Sol" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug Dean" target="Conan C. Albrecht">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug Dean" target="Jay F Nunamaker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug Dean" target="P. Lowry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug Dean" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Conan C. Albrecht" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Lowry" target="Jay F Nunamaker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jay F Nunamaker" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jay F Nunamaker" target="Mark Adkins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Appelman" target="Gert-Jan de Vreede">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

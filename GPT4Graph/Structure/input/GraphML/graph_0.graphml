@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Prabhakar M. Koushik">
+      <data key="affiliation">Nan</data>
+      <data key="research">information retrieval, low-error path, minimal length travel</data>
+    </node>
+    <node id="C. S. Burrus">
+      <data key="affiliation">Tech. Univ. of Nova Scotia, Halifax, NS, Canada</data>
+      <data key="research">complex wavelet, smooth wavelet basis, discrete wavelet</data>
+    </node>
+    <node id="Y. Raghu Reddy">
+      <data key="affiliation">Colorado State University</data>
+      <data key="research">aspect model, primary model, composition directive</data>
+    </node>
+    <node id="Behzad Bordbar">
+      <data key="affiliation">University of Birmingham</data>
+      <data key="research">UML model, model transformation, STRBAC model</data>
+    </node>
+    <node id="S. Guo">
+      <data key="affiliation">Nan</data>
+      <data key="research">Reconfigurable Designs, Serial Hardware Libraries</data>
+    </node>
+    <node id="M. Lang">
+      <data key="affiliation">Siemens AG, Munich, W. Germany</data>
+      <data key="research">speech understanding, advanced speech understanding system, continuous speech recognition</data>
+    </node>
+    <node id="H. Guo">
+      <data key="affiliation">Nan</data>
+      <data key="research">Non-equilibrium Ginzburg-Landau model</data>
+    </node>
+    <node id="Cris Kobryn">
+      <data key="affiliation">InLine Software Corp., Fallbrook, CA</data>
+      <data key="research">UML metamodels, UML profile, UML Revision Task Force</data>
+    </node>
+    <node id="Robert B. France">
+      <data key="affiliation">Nan</data>
+      <data key="research">UML access control model, Mobile SystemsAccess control model, access control model</data>
+    </node>
+    <node id="Stuart Kent">
+      <data key="affiliation">The University, Canterbury, UK</data>
+      <data key="research">constraint diagram, spider diagram, visual language</data>
+    </node>
+    <node id="C. C. Goodyear">
+      <data key="affiliation">Dept. of Electr. Eng. &amp; Electron., Liverpool Univ., UK</data>
+      <data key="research">vocal tract shape, acoustic-to-articulatory parameter mapping, neural network</data>
+    </node>
+    <node id="E. B. Fernandez">
+      <data key="affiliation">IBM Corporation, Data Processing Division, Whitney Avenue, Hamden, CT</data>
+      <data key="research">Related Information</data>
+    </node>
+    <node id="Steffen Zschaler">
+      <data key="affiliation">King's College London, London, United Kingdom</data>
+      <data key="research">non-functional property, software engineering, software development</data>
+    </node>
+    <node id="Frank Hernandez">
+      <data key="affiliation">Florida International University, Miami, FL</data>
+      <data key="research">communication application, communication model, domain-specific modeling language</data>
+    </node>
+    <node id="D. Wei">
+      <data key="affiliation">Nan</data>
+      <data key="research">simultaneous noise reduction, best wavelet packet, wavelet domain</data>
+    </node>
+    <node id="C. Atkinson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Multidimensional Systemic Representation, Actor Network Theory, Actor Networks</data>
+    </node>
+    <node id="Jennifer Horkoff">
+      <data key="affiliation">DISI, University of Trento, Trento, Italy</data>
+      <data key="research">goal model, requirements engineering, analysis procedure</data>
+    </node>
+    <node id="James M. Bieman">
+      <data key="affiliation">Nan</data>
+      <data key="research">ASA tool, refactoring modification, coding concern</data>
+    </node>
+    <node id="Sean Thorpe">
+      <data key="affiliation">University of Technology, Kingston, Jamaica</data>
+      <data key="research">cloud computing, virtual machine, cloud data element</data>
+    </node>
+    <node id="Philippe Collet">
+      <data key="affiliation">UNS, CNRS, Nice, France</data>
+      <data key="research">feature model, software product line, software system</data>
+    </node>
+    <edge source="Prabhakar M. Koushik" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Burrus" target="M. Lang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Burrus" target="H. Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Burrus" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Raghu Reddy" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Behzad Bordbar" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Guo" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Lang" target="H. Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Lang" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Guo" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cris Kobryn" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="E. B. Fernandez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="James M. Bieman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Jennifer Horkoff">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Steffen Zschaler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Philippe Collet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Stuart Kent">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Frank Hernandez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="C. Atkinson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Sean Thorpe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. C. Goodyear" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. B. Fernandez" target="D. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

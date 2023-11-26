@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Mu Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">Brain Tumor PatientsAutomated prediction, clinical survival time prediction, survival time prediction problem</data>
+    </node>
+    <node id="Stephen D. Scott">
+      <data key="affiliation">University of Nebraska, Lincoln, NE</data>
+      <data key="research">function classification, P450 reductases, new kernel</data>
+    </node>
+    <node id="Man Lan">
+      <data key="affiliation">Nan</data>
+      <data key="research">CPROD1 Challenge, product mention act, CPROD1 ChallengeThis paper</data>
+    </node>
+    <node id="Xia Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Mass SMS Filtering Algorithm, mass SMS, mass SMS stream</data>
+    </node>
+    <node id="Lin Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">control scheme, City Tunnel Monitoring System, control command</data>
+    </node>
+    <node id="Yuyong Cui">
+      <data key="affiliation">Nan</data>
+      <data key="research">XML data, WebGIS framework, Google Maps</data>
+    </node>
+    <node id="Han Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">Overflow traffic function, bandwidth assignment, dynamic bandwidth allocation scheme</data>
+    </node>
+    <node id="Xiaojun Tan">
+      <data key="affiliation">Digital Engineering and Simulation Research Center, Huazhong University of Science and Technology, Wuhan, China</data>
+      <data key="research">Wuhan Area, SVM model, TM Image</data>
+    </node>
+    <node id="Jianzhong Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">Smart Grid, risk assessment process, Traditional Power GridSmart grid</data>
+    </node>
+    <node id="Wei Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">comprehensive data, hazardous mateials, hazardous material leak accident</data>
+    </node>
+    <node id="Liu Liu">
+      <data key="affiliation">Key Laboratory for Low Dimensional Materials and Application Technology of Ministry of Education, Xiangtan University, Xiangtan, Hunan 411105, China</data>
+      <data key="research">bipolar resistive, Cr content, resistive switching</data>
+    </node>
+    <node id="Weihua Lin">
+      <data key="affiliation">Huazhong University of Science and Technology, Wuhan,</data>
+      <data key="research">Soil Erosion, erosion intensity, Attribute Reduction</data>
+    </node>
+    <node id="Zhenlong Zhang">
+      <data key="affiliation">College of Geography Science, Nanjing Normal University, Nanjing 210097, China</data>
+      <data key="research">normalized difference vegetation index, ratio vegetation index, vegetation coverage calculation</data>
+    </node>
+    <node id="Zhiyuan Zeng">
+      <data key="affiliation">Huazhong University of Science and Technology, Wuhan,</data>
+      <data key="research">Wuhan Area, SVM model, Soil Erosion</data>
+    </node>
+    <node id="Bo Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">heterogeneous processor, communication efficiency, communication latency</data>
+    </node>
+    <node id="Jiang Tao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Video Surveillance Image, experimental result, adjacent frame image</data>
+    </node>
+    <node id="Wenli Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">land cover characterization, landscape structure, spatial resolution</data>
+    </node>
+    <node id="Dongsheng Yu">
+      <data key="affiliation">State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of Sciences, Nanjing 210008, China</data>
+      <data key="research">genetic soil classification, WebGIS system, modern soil resource management</data>
+    </node>
+    <node id="Jinzhong Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">dual-port RAM, high speed, Massive Data Collection</data>
+    </node>
+    <node id="Cheng Wang">
+      <data key="affiliation">Department of Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China</data>
+      <data key="research">time-varying delay, Delay-dependent stabilization, delay-dependent stabilization criterion</data>
+    </node>
+    <edge source="Mu Zhou" target="Bo Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mu Zhou" target="Xiaojun Tan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mu Zhou" target="Yuyong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mu Zhou" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mu Zhou" target="Jianzhong Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen D. Scott" target="Lin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Lan" target="Lin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xia Hu" target="Lin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Li" target="Jiang Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Li" target="Jinzhong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Li" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Li" target="Dongsheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Li" target="Zhenlong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Li" target="Wei Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuyong Cui" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuyong Cui" target="Xiaojun Tan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuyong Cui" target="Liu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Han Zhou" target="Jianzhong Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Han Zhou" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojun Tan" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojun Tan" target="Weihua Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojun Tan" target="Liu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianzhong Zhou" target="Cheng Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianzhong Zhou" target="Bo Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianzhong Zhou" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Zheng" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Zheng" target="Dongsheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Zheng" target="Zhenlong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liu Liu" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihua Lin" target="Cheng Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihua Lin" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenlong Zhang" target="Dongsheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenlong Zhang" target="Zhiyuan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyuan Zeng" target="Dongsheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyuan Zeng" target="Bo Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyuan Zeng" target="Wenli Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyuan Zeng" target="Cheng Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Li" target="Cheng Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

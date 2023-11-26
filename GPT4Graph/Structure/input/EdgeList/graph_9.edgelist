@@ -1,0 +1,45 @@
+Gregory D. Abowd	Thad Starner	{'relation': 'collaborate'}
+Gregory D. Abowd	Kimberly Weaver	{'relation': 'collaborate'}
+Gregory D. Abowd	Peter Presti	{'relation': 'collaborate'}
+Gregory D. Abowd	Brian Jones	{'relation': 'collaborate'}
+Gregory D. Abowd	Jeremy Johnson	{'relation': 'collaborate'}
+Gregory D. Abowd	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Jeremy Johnson	Thad Starner	{'relation': 'collaborate'}
+Jeremy Johnson	Kimberly Weaver	{'relation': 'collaborate'}
+Jeremy Johnson	Peter Presti	{'relation': 'collaborate'}
+Scott Gilliland	Peter Presti	{'relation': 'collaborate'}
+Scott Gilliland	Thad Starner	{'relation': 'collaborate'}
+Pei Yin	Thad Starner	{'relation': 'collaborate'}
+Pei Yin	Peter Presti	{'relation': 'collaborate'}
+Stephen Sinclair	Peter Presti	{'relation': 'collaborate'}
+Scott Robertson	Brian Jones	{'relation': 'collaborate'}
+Scott Robertson	Peter Presti	{'relation': 'collaborate'}
+Scott Robertson	Maribeth Gandy	{'relation': 'collaborate'}
+Scott Robertson	Jeff Wilson	{'relation': 'collaborate'}
+Jeffrey S. Pierce	Huahai Yang	{'relation': 'collaborate'}
+Jeffrey S. Pierce	Shumin Zhai	{'relation': 'collaborate'}
+Jeffrey S. Pierce	Kimberly Weaver	{'relation': 'collaborate'}
+Shumin Zhai	Huahai Yang	{'relation': 'collaborate'}
+Shumin Zhai	Kimberly Weaver	{'relation': 'collaborate'}
+Amy Bruckman	Thad Starner	{'relation': 'collaborate'}
+Amy Bruckman	Kimberly Weaver	{'relation': 'collaborate'}
+Amy Bruckman	Peter Presti	{'relation': 'collaborate'}
+Thad Starner	Kimberly Weaver	{'relation': 'collaborate'}
+Thad Starner	Maribeth Gandy	{'relation': 'collaborate'}
+Thad Starner	Michael Lawo	{'relation': 'collaborate'}
+Thad Starner	Hendrik Iben	{'relation': 'collaborate'}
+Thad Starner	Peter Presti	{'relation': 'collaborate'}
+Hendrik Iben	Kimberly Weaver	{'relation': 'collaborate'}
+Hendrik Iben	Michael Lawo	{'relation': 'collaborate'}
+Derrick Parkhurst	Kimberly Weaver	{'relation': 'collaborate'}
+Jeff Wilson	Peter Presti	{'relation': 'collaborate'}
+Jeff Wilson	Maribeth Gandy	{'relation': 'collaborate'}
+Jeff Wilson	Brian Jones	{'relation': 'collaborate'}
+Michael Lawo	Kimberly Weaver	{'relation': 'collaborate'}
+Maribeth Gandy	Peter Presti	{'relation': 'collaborate'}
+Maribeth Gandy	Brian Jones	{'relation': 'collaborate'}
+Maribeth Gandy	Steven Dow	{'relation': 'collaborate'}
+Kimberly Weaver	Peter Presti	{'relation': 'collaborate'}
+Kimberly Weaver	Huahai Yang	{'relation': 'collaborate'}
+Peter Presti	Steven Dow	{'relation': 'collaborate'}
+Peter Presti	Brian Jones	{'relation': 'collaborate'}

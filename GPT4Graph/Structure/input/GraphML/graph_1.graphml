@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jian Liu">
+      <data key="affiliation">School of Information Science and Engineering, Shandong University, Jinan, Shandong 250100, PR China</data>
+      <data key="research">energy efficiency, proposed scheme, Nonlinear optimization</data>
+    </node>
+    <node id="Yue Pan">
+      <data key="affiliation">University of Indiana</data>
+      <data key="research">collapse informatics, sociotechnical system, imminent collapse</data>
+    </node>
+    <node id="Lixin Fu">
+      <data key="affiliation">Nan</data>
+      <data key="research">arcane terminology, visual expert, plant identification</data>
+    </node>
+    <node id="G. W. Irwin">
+      <data key="affiliation">Nan</data>
+      <data key="research">fuzzy coding, neural network, training algorithm</data>
+    </node>
+    <node id="Lihong Zhang">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Dalhousie University, Halifax, Canada and Department of Electrical and Information Engineering, OttovonGuericke University of Magdeburg, Magdeb ...</data>
+      <data key="research">analog layout, layout parasitics, proposed algorithm</data>
+    </node>
+    <node id="Zhanjiang Song">
+      <data key="affiliation">Nokia Research Center, Beijing, China</data>
+      <data key="research">context query language, temporal description logic, context information</data>
+    </node>
+    <node id="Dajun Du">
+      <data key="affiliation">Nan</data>
+      <data key="research">multi-output regression problem, proposed method, computational complexity</data>
+    </node>
+    <node id="Yunghsiang S. Han">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University of Science and Technology, #43, Sec.4, Keelung Rd., Taipei, Taiwan</data>
+      <data key="research">bridge node, secret link key, CSD scheme</data>
+    </node>
+    <node id="Wenhu Wu">
+      <data key="affiliation">Center for Speech and Language Technologies, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing 100084, China</data>
+      <data key="research">dialectal Chinese speech, State-dependent phoneme-based model, dialectal Chinese speech recognizer</data>
+    </node>
+    <node id="Jing Deng">
+      <data key="affiliation">Nan</data>
+      <data key="research">El Farol bar problem, bar problem, country fair problem</data>
+    </node>
+    <node id="Wei Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">motif occurrence, aglobal motif distribution model, denovo motif detection</data>
+    </node>
+    <node id="Lei He">
+      <data key="affiliation">Library of Congress, Washington, D.C.</data>
+      <data key="research">linear programming technique, linear form, linear programming formulation</data>
+    </node>
+    <node id="Jian Wu">
+      <data key="affiliation">Zhejiang University, China</data>
+      <data key="research">web service, service composition, previous work</data>
+    </node>
+    <node id="Honggang Li">
+      <data key="affiliation">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China 518055</data>
+      <data key="research">wireless sensor network, battery lifetime, battery performance</data>
+    </node>
+    <node id="Thomas Fang Zheng">
+      <data key="affiliation">Center for Speech and Language Technologies, Division of Technology Innovation and Development, Tsinghua National Laboratory for Information Science and Technology, Beijing, China</data>
+      <data key="research">proposed algorithm, State-dependent phoneme-based model, experimental result</data>
+    </node>
+    <node id="Kang Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Data Association, single target tracking, Multi-target Tracking</data>
+    </node>
+    <node id="Jingwei Miao">
+      <data key="affiliation">University of Lyon, CNRS, INSALyon, LIRIS, UMR, France</data>
+      <data key="research">selfish behavior, destination node, node centrality</data>
+    </node>
+    <node id="Kangbin Yim">
+      <data key="affiliation">Nan</data>
+      <data key="research">original AODV, proposed protocol, AODV protocol</data>
+    </node>
+    <node id="Qixiu Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">packing density, X-ray transmission intensity, density variation rate</data>
+    </node>
+    <node id="Chi Lin">
+      <data key="affiliation">School of Software, Dalian University of Technology, Dalian, 116621, China.</data>
+      <data key="research">location privacy, mobile user, attacking efficiency</data>
+    </node>
+    <edge source="Jian Liu" target="Thomas Fang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Liu" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Liu" target="Wenhu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Pan" target="Qixiu Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Pan" target="Wenhu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lixin Fu" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Irwin" target="Kang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Irwin" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Irwin" target="Dajun Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihong Zhang" target="Zhanjiang Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihong Zhang" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihong Zhang" target="Thomas Fang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihong Zhang" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanjiang Song" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanjiang Song" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanjiang Song" target="Thomas Fang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dajun Du" target="Kang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dajun Du" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yunghsiang S. Han" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenhu Wu" target="Jing Deng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenhu Wu" target="Qixiu Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenhu Wu" target="Jian Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenhu Wu" target="Lei He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenhu Wu" target="Thomas Fang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Jingwei Miao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Chi Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Kang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Honggang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Kangbin Yim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Deng" target="Thomas Fang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Wu" target="Thomas Fang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei He" target="Jian Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jingwei Miao" target="Kangbin Yim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jingwei Miao" target="Chi Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kangbin Yim" target="Chi Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>
