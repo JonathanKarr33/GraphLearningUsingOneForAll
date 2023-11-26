@@ -23,9 +23,9 @@ def get_label_texts(labels):
     label_texts = [None] * len(labels)
     for entry in labels:
         label_texts[labels[entry][0]] = (
-            "prompt node. molecule property description. "
-            + "The molecule is effective to the following assay. "
-            + labels[entry][1][0][:-41]
+                "prompt node. molecule property description. "
+                + "The molecule is effective to the following assay. "
+                + labels[entry][1][0][:-41]
         )
     return label_texts
 
