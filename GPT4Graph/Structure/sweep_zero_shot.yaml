@@ -1,0 +1,18 @@
+project: GraphBench
+program: run_ogb_arxiv_langchain.py
+method: grid
+parameters:
+  method:
+    values: ["zero_shot"]
+  format:
+    values: ["GML", "GraphML", "EdgeList", "AdjList"]
+  change_order:
+    values: [1]
+  use_role_prompting:
+    values: [1]
+  use_format_explain:
+    values: [1]
+  self_augument:
+    values: [0]
+  task:
+    values: ["size", "degree", "diameter", "hasedge", "hasattr", "clustering"]
