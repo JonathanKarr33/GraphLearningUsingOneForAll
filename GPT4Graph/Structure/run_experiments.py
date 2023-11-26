@@ -12,11 +12,12 @@ import os
 from utils import task_handler, answer_cleasing, evaluate
 from functools import partial
 import time
-from tenacity import (
+import openai
+'''from tenacity import (
     retry,
     stop_after_attempt,
     wait_random_exponential,
-)  
+)  '''
 
 
 import wandb
@@ -38,19 +39,28 @@ class MyThread(Thread):
     def getResult(self):
         return self.result
 
-@retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
+#@retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
 def GPT(data):
-
-    url       = ""
-    headers   = {"Content-Type": "application/json", "api-key": ""}
-    response  = requests.post(url=url, headers=headers, data=json.dumps(data))
-    response  = json.loads(response.text)
-    # print(response)
+    #print(data)
+    openai.api_key = "YOUR KEY"
+    response = openai.Completion.create(
+        engine="text-davinci-002", #TODO: GPT just deprecated this engine Jan 2024, will need to upd
+        prompt= data['prompt'],
+        n=1,  # Number of summaries to generate
+        stop=None  # Set custom stop tokens if needed
+    )
+    #print(response)
+    #url = "https://api.openai.com/v1/chat/completions"
+    #headers = {"Content-Type": "application/json", "engine":"text-davinci-002", "Authorization": "Bearer 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"}
+    #response = requests.post(url=url, headers=headers, data=json.dumps(data))
+    #response = json.loads(response.text)
     if "choices" not in response:
-        raise Exception("Response Exception. ")
-    answer    = response["choices"][0]["text"].strip()
-     #print(answer)
+        pass
+        # raise Exception("Response Exception. ")
+    answer = response["choices"][0]["text"].strip()
+    # print(answer)
     return answer
+
 
 def main(config, seed=0):
     
@@ -98,7 +108,7 @@ def main(config, seed=0):
     # print(example)
     accs = []
     for _ in tqdm(range(1)):
-        for idx, seed in tqdm(enumerate(range(50))):
+        for idx, seed in tqdm(enumerate(range(10))):
             graph_file = os.path.join(prefix, "graph_"+str(seed)+postfix)
             with open(graph_file, "r") as fp:
                 graph = fp.read()
