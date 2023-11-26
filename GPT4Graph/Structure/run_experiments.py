@@ -51,7 +51,7 @@ def GPT(data):
     )
     #print(response)
     #url = "https://api.openai.com/v1/chat/completions"
-    #headers = {"Content-Type": "application/json", "engine":"text-davinci-002", "Authorization": "Bearer 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"}
+    #headers = {"Content-Type": "application/json", "engine":"text-davinci-002", "Authorization": "Bearer YOUR KEY"}
     #response = requests.post(url=url, headers=headers, data=json.dumps(data))
     #response = json.loads(response.text)
     if "choices" not in response:
